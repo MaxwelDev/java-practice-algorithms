@@ -1,2 +1,2 @@
 # java-practice-algorithms
-Study Project
+Study Algorithms Project
